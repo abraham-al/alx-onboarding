@@ -1,0 +1,22 @@
+ Intialize n , sqr[n]
+ Intialize sum to zero
+ Print message to accept user input
+ Input n
+ Intialize num[n]
+
+ FOR i=0 to n
+       Print message to accept user input
+       Input num[i]=user input
+ ENDFOR
+
+ FOR i=0 to n
+       sqr[i]= num[i]*num[i]
+
+ ENDFOR
+
+ FOR i=0 to n 
+      sum += sqr[i]
+
+ ENDFOR
+
+ return sum

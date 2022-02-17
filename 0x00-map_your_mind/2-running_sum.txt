@@ -1,0 +1,7 @@
+Intialize num , sum
+WHILE num > 0
+   Print Enter a number
+   input num
+   sum +=num
+ENDWHILE
+return sum
