@@ -1,0 +1,13 @@
+// Intialize n , sqr[n]
+// Intialize sum to zero
+// Print message to accept user input
+// Input n
+// Intialize num[n]
+// for i=0 to n
+      // Print message to accept user input
+      // Input num[i]=user input
+// for i=0 to n
+      // sqr[i]= num[i]*num[i]
+// for i=0 to n 
+      //sum += sqr[i]
+// return sum
